@@ -13,4 +13,4 @@ Five years at JPMorgan Chase, Molina Healthcare and Cargill: Spark, Kafka, Datab
 | [**Silo**](https://github.com/Myselfgitcone/silo) | MCP server and AI analyst over the Grainflow lake. Metrics before SQL, two locks on free-form queries, cost budget, evals. | [silo on Railway](https://silo-production-9efb.up.railway.app) |
 
 Portfolio, with the live numbers from each: **[jagadish-butukuri.vercel.app](https://jagadish-butukuri.vercel.app)**
-[LinkedIn](https://www.linkedin.com/in/jagadish33/) · jagadishbutukuri33@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jagadish33/) · jagadishbutukuri11@gmail.com
